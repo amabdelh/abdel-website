@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .mat-toolbar.mat-primary {
+    background: #007bff;
+    color: #fff;
+  }
+
+  .material-icons{
+    font-family: 'Material Icons' !important;
+}

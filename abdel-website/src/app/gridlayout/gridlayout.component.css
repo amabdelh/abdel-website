@@ -1,0 +1,16 @@
+mat-grid-tile {
+    background: lightblue;
+  }
+
+  .welcome {
+      width: auto;
+      text-align: center;
+      align-items: center;
+  }
+
+  .welcome-message {
+      width: auto;
+      text-align: center;
+      align-items: center;
+      margin-left: 10px;
+  }
